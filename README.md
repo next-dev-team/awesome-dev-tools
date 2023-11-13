@@ -1,6 +1,10 @@
 # Awesome Front-End
 
-Welcome to **awesome-next-devtools**, a curated list of awesome tools for developers who want to leverage the power of AI, boost their productivity, collaborate with others, and create amazing applications. You will find tools related to git, dev IDE, code generation, testing, debugging, deployment, and more. These tools are not tied to any specific tech stack, but rather aim to enhance your overall development experience. Whether you are a beginner or an expert, you will find something useful and interesting in this awesome list. Feel free to explore, contribute, and share! 😊
+Welcome to **awesome-next-devtools**, a curated list of awesome tools for developers who want to leverage the power of AI, boost their productivity, collaborate with others, and create amazing applications.
+You will find tools related to git, dev IDE, code generation, testing, debugging, deployment, and more.
+
+  These tools are not tied to any specific tech stack, but rather aim to enhance your overall development experience.
+Whether you are a beginner or an expert, you will find something useful and interesting in this awesome list. Feel free to explore, contribute, and share! 😊
  **Below is a list of recommended** tools related stuff for coding development.
 
 ## Development Tools
