@@ -25,6 +25,9 @@ Whether you are a beginner or an expert, you will find something useful and inte
   - https://poe.com/
   - https://www.forefront.ai/
 
+- Lib anazlysis
+  - https://www.trustypkg.dev: Search for an open source package to understand its trustworthiness based on activity, provenance, and more. Brought to you by the founders of projects such as Kubernetes and Sigstore  
+
 - **GIT**:
   - Github: https://github.com/
   - Gitlab: https://gitlab.com/
