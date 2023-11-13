@@ -1,4 +1,4 @@
-# Awesome Front-End
+# Awesome Next Devtools
 
 Welcome to **awesome-next-devtools**, a curated list of awesome tools for developers who want to leverage the power of AI, boost their productivity, collaborate with others, and create amazing applications.
 You will find tools related to git, dev IDE, code generation, testing, debugging, deployment, and more.
