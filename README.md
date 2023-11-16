@@ -20,11 +20,13 @@ Whether you are a beginner or an expert, you will find something useful and inte
   - Web Storm: https://www.jetbrains.com/webstorm/
 
 - **AI**:
-  
-  - https://codeium.com/
-  - https://poe.com/
-  - https://www.forefront.ai/
-
+  - Online
+    - https://codeium.com/
+    - https://poe.com/
+    - https://www.forefront.ai/
+  - Selfhost
+    - https://github.com/lm-sys/FastChat
+    - 
 - Lib anazlysis
   - https://www.trustypkg.dev: Search for an open source package to understand its trustworthiness based on activity, provenance, and more. Brought to you by the founders of projects such as Kubernetes and Sigstore  
 
