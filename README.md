@@ -16,7 +16,8 @@ Whether you are a beginner or an expert, you will find something useful and inte
 - **IDE**
   
   - VS Code: https://code.visualstudio.com/
- 
+    - AI:
+         - Codeium: https://marketplace.visualstudio.com/items?itemName=codeium.codeium
   - Web Storm: https://www.jetbrains.com/webstorm/
 
 - **AI**:
