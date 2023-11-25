@@ -45,6 +45,7 @@ Whether you are a beginner or an expert, you will find something useful and inte
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
    - Theme: https://github.com/umijs/dumi
     - Antd v5: https://github.com/KuangPF/dumi-theme-antd
+    - Antd v5: https://github.com/arvinxx/dumi-theme-antd-style
 
 - Docusaurus: https://docusaurus.io/
 
