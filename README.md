@@ -41,6 +41,9 @@ Whether you are a beginner or an expert, you will find something useful and inte
   - Jira: https://www.atlassian.com/software/jira
   - All git has own board too
 
+## TOOLS 
+  - Npm Private: https://github.com/verdaccio/verdaccio
+
 ### DOCS
 
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
