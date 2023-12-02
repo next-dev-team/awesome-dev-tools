@@ -44,6 +44,10 @@ Whether you are a beginner or an expert, you will find something useful and inte
 ## TOOLS 
   - Npm Private: https://github.com/verdaccio/verdaccio
 
+## CMS/Service 
+
+  - Translation Management Platform: gihub.com/ever-co/ever-traduora](https://github.com/ever-co/ever-traduora)
+  - 
 ### DOCS
 
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
