@@ -29,8 +29,14 @@ Whether you are a beginner or an expert, you will find something useful and inte
     - https://codeium.com/
     - https://poe.com/
     - https://www.forefront.ai/
-  - Selfhost
-    - https://github.com/lm-sys/FastChat
+
+  - Selfhost/local
+    - Chat: https://github.com/lm-sys/FastChat
+    - Voice
+       -RVC: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+    - Image
+        - https://github.com/lllyasviel/Fooocus
+       
     - 
 - Lib anazlysis
   - https://www.trustypkg.dev: Search for an open source package to understand its trustworthiness based on activity, provenance, and more. Brought to you by the founders of projects such as Kubernetes and Sigstore  
