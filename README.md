@@ -76,3 +76,7 @@ Whether you are a beginner or an expert, you will find something useful and inte
 - Srorybook: https://storybook.js.org/
 
 - Gitbook: https://www.gitbook.com/
+
+### Other Tools
+- Activation (Not recommend)
+  - **windows/office** https://github.com/massgravel/Microsoft-Activation-Scripts
