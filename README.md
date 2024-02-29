@@ -36,8 +36,10 @@ Whether you are a beginner or an expert, you will find something useful and inte
        -RVC: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
     - Image
         - https://github.com/lllyasviel/Fooocus
-       
-    - 
+     
+   - Awesome: collection and lists 
+      - futuretools: https://www.futuretools.io/  
+      - https://replicate.com/explore   
 - Lib anazlysis
   - https://www.trustypkg.dev: Search for an open source package to understand its trustworthiness based on activity, provenance, and more. Brought to you by the founders of projects such as Kubernetes and Sigstore  
 
