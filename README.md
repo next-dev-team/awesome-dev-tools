@@ -55,6 +55,8 @@ Whether you are a beginner or an expert, you will find something useful and inte
 
 ## TOOLS 
   - Npm Private: https://github.com/verdaccio/verdaccio
+  - Code editor web: https://github.com/microsoft/monaco-editor
+      - https://github.com/Pranomvignesh/constrained-editor-plugin
 
 ## CMS HEADLESS/Service 
 - **Seflhost**
