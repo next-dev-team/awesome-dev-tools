@@ -66,7 +66,9 @@ Whether you are a beginner or an expert, you will find something useful and inte
         - https://github.com/joschan21/digitalhippo
 
 ## Service 
-  - **I18n**: Translation Management Platform: gihub.com/ever-co/ever-traduora](https://github.com/ever-co/ever-traduora)
+  - **I18n**: 
+      - **traduora**: Translation Management Platform: gihub.com/ever-co/ever-traduora](https://github.com/ever-co/ever-traduora)
+      - **accent**: https://github.com/mirego/accent 
     
 ### DOCS
 
