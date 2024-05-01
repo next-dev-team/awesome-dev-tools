@@ -19,7 +19,7 @@ Whether you are a beginner or an expert, you will find something useful and inte
     - AI:
          - Codeium: https://marketplace.visualstudio.com/items?itemName=codeium.codeium
   - Web Storm: https://www.jetbrains.com/webstorm/
-
+  - IDE React with AI: https://github.com/Exafunction/codeium-react-code-editor
 - **Monorepo**:
   - **Turbo**: https://github.com/vercel/turbo
   - **Nx**: https://github.com/nrwl/nx
