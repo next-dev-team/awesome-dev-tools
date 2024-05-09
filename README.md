@@ -85,6 +85,9 @@ Whether you are a beginner or an expert, you will find something useful and inte
 
 - Gitbook: https://www.gitbook.com/
 
+### Learning
+ - **Es6tutorial**: https://github.com/ruanyf/es6tutorial
+
 ### Other Tools
 - Activation (Not recommend)
   - **windows/office** https://github.com/massgravel/Microsoft-Activation-Scripts
