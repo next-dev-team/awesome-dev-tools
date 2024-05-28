@@ -16,6 +16,7 @@ Whether you are a beginner or an expert, you will find something useful and inte
 - **IDE**
   
   - VS Code: https://code.visualstudio.com/
+    - Frontend: VS Code one click setup https://github.com/next-dev-team/npack 
     - AI:
          - Codeium: https://marketplace.visualstudio.com/items?itemName=codeium.codeium
   - Web Storm: https://www.jetbrains.com/webstorm/
