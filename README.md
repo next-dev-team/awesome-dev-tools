@@ -27,6 +27,8 @@ Explore, contribute, and share your discoveries with the community! 😊
 - **AI**:
   - Online
     - https://codeium.com/
+    - https://www.bing.com/chat?q=Microsoft+Copilot
+    - https://gemini.google.com/
     - https://poe.com/
     - https://www.forefront.ai/
 
