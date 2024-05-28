@@ -1,6 +1,6 @@
 # Awesome Next Devtools
 
-Welcome to awesome-next-devtools - a curated collection of essential tools for your development workflow. From Git to IDEs, code generation to testing, debugging to deployment - it's all here.
+Welcome to **awesome-next-devtools** - a curated collection of essential tools for your development workflow. From Git to IDEs, code generation to testing, debugging to deployment - it's all here.
 
 Explore, contribute, and share your discoveries with the community! 😊
 
