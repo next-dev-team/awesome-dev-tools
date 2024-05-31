@@ -34,9 +34,9 @@ Explore, contribute, and share your discoveries with the community! 😊
 
   - Selfhost/local
     - LLM Chat: 
-          - https://lmstudio.ai/
-          - https://github.com/ollama/ollama
-          - https://github.com/lm-sys/FastChat
+        - https://lmstudio.ai
+        - https://github.com/ollama/ollama
+        - https://github.com/lm-sys/FastChat
     - Voice
        -RVC: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
        - Applio: https://github.com/IAHispano/Applio
