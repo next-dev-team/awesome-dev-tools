@@ -33,11 +33,16 @@ Explore, contribute, and share your discoveries with the community! 😊
     - https://www.forefront.ai/
 
   - Selfhost/local
-    - Chat: https://github.com/lm-sys/FastChat
+    - LLM Chat: 
+          - https://lmstudio.ai/
+          - https://github.com/ollama/ollama
+          - https://github.com/lm-sys/FastChat
     - Voice
        -RVC: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+       - Applio: https://github.com/IAHispano/Applio
     - Image
-        - https://github.com/lllyasviel/Fooocus
+        - Fooocus: https://github.com/lllyasviel/Fooocus
+        - Stable-diffusion: https://github.com/AUTOMATIC1111/stable-diffusion-webui
      
    - Awesome: collection and lists 
       - futuretools: https://www.futuretools.io/  
