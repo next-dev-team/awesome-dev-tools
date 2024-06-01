@@ -25,6 +25,8 @@ Explore, contribute, and share your discoveries with the community! 😊
   - **Nx**: https://github.com/nrwl/nx
 
 - **AI**:
+  - Awesome
+   - https://aitoolist.com/
   - Online
     - https://codeium.com/
     - https://www.bing.com/chat?q=Microsoft+Copilot
