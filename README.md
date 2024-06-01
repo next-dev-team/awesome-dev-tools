@@ -33,6 +33,7 @@ Explore, contribute, and share your discoveries with the community! 😊
     - https://www.forefront.ai/
 
   - Selfhost/local
+    - ALL in one llm: https://github.com/SillyTavern/SillyTavern
     - LLM Chat: 
         - https://lmstudio.ai
         - https://github.com/ollama/ollama
@@ -61,6 +62,7 @@ Explore, contribute, and share your discoveries with the community! 😊
   - All git has own board too
 
 ## TOOLS 
+  - Vram-calculator: https://sillytavernai.com/llm-model-vram-calculator/?vram=12
   - Npm Private: https://github.com/verdaccio/verdaccio
   - Code editor web: https://github.com/microsoft/monaco-editor
       - https://github.com/Pranomvignesh/constrained-editor-plugin
