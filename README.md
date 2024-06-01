@@ -61,6 +61,10 @@ Explore, contribute, and share your discoveries with the community! 😊
   - Jira: https://www.atlassian.com/software/jira
   - All git has own board too
 
+## Wiki
+- The next generation of development resource : https://nextdev.netlify.app/
+- Developer wiki: https://wiki.itgoit.nl/en
+- 
 ## TOOLS 
   - Vram LLM calculator: https://sillytavernai.com/llm-model-vram-calculator/?vram=12
   - Npm Private: https://github.com/verdaccio/verdaccio
