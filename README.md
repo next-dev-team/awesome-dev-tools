@@ -20,6 +20,7 @@ Explore, contribute, and share your discoveries with the community! 😊
          - Codeium: https://marketplace.visualstudio.com/items?itemName=codeium.codeium
   - Web Storm: https://www.jetbrains.com/webstorm/
   - IDE React with AI: https://github.com/Exafunction/codeium-react-code-editor
+
 - **Monorepo**:
   - **Turbo**: https://github.com/vercel/turbo
   - **Nx**: https://github.com/nrwl/nx
@@ -34,7 +35,7 @@ Explore, contribute, and share your discoveries with the community! 😊
     - https://poe.com/
     - https://www.forefront.ai/
 
-  - Selfhost/local
+  - **Selfhost/local**
     - ALL in one llm: https://github.com/SillyTavern/SillyTavern
     - LLM Chat: 
         - https://lmstudio.ai
@@ -64,9 +65,10 @@ Explore, contribute, and share your discoveries with the community! 😊
   - All git has own board too
 
 ## Wiki
-- The next generation of development resource : https://nextdev.netlify.app/
-- Developer wiki: https://wiki.itgoit.nl/en
-- 
+-  **Awesome Dev**: The next generation of development resource : https://nextdev.netlify.app/
+- **Developer wiki**: https://wiki.itgoit.nl/en
+ - **Es6tutorial**: https://github.com/ruanyf/es6tutorial
+   
 ## TOOLS 
   - Vram LLM calculator: https://sillytavernai.com/llm-model-vram-calculator/?vram=12
   - Npm Private: https://github.com/verdaccio/verdaccio
@@ -81,6 +83,9 @@ Explore, contribute, and share your discoveries with the community! 😊
         - https://github.com/joschan21/digitalhippo
 
 ## Service 
+  - **Mock API**:
+    - **Gorest**: Real GraphQL and REST API for Testing and Prototyping https://gorest.co.in
+    - **Platzi**: Your API for your e-commerce or shopping website prototype. https://fakeapi.platzi.com/
   - **I18n**: 
       - **traduora**: Translation Management Platform: gihub.com/ever-co/ever-traduora](https://github.com/ever-co/ever-traduora)
       - **accent**: https://github.com/mirego/accent 
@@ -99,9 +104,6 @@ Explore, contribute, and share your discoveries with the community! 😊
 - Srorybook: https://storybook.js.org/
 
 - Gitbook: https://www.gitbook.com/
-
-### Learning
- - **Es6tutorial**: https://github.com/ruanyf/es6tutorial
 
 ### Other Tools
 - Activation (Not recommend)
