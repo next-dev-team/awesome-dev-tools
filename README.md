@@ -66,6 +66,7 @@ Explore, contribute, and share your discoveries with the community! 😊
 
 ## Wiki
 -  **Awesome Dev**: The next generation of development resource : https://nextdev.netlify.app/
+- **Awesome Free** https://github.com/ripienaar/free-for-dev
 - **Developer wiki**: https://wiki.itgoit.nl/en
  - **Es6tutorial**: https://github.com/ruanyf/es6tutorial
    
