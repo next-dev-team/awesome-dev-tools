@@ -69,6 +69,9 @@ Explore, contribute, and share your discoveries with the community! 😊
 - **Awesome Free** https://github.com/ripienaar/free-for-dev
 - **Developer wiki**: https://wiki.itgoit.nl/en
  - **Es6tutorial**: https://github.com/ruanyf/es6tutorial
+
+# Awesome 
+- Selfhosted: https://github.com/awesome-selfhosted/awesome-selfhosted
    
 ## TOOLS 
   - Vram LLM calculator: https://sillytavernai.com/llm-model-vram-calculator/?vram=12
