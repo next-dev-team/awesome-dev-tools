@@ -21,6 +21,11 @@ Explore, contribute, and share your discoveries with the community! 😊
   - Web Storm: https://www.jetbrains.com/webstorm/
   - IDE React with AI: https://github.com/Exafunction/codeium-react-code-editor
 
+- **API TESTING
+    - https://github.com/Kong/insomnia
+    - https://www.postman.com/downloads/
+    - https://github.com/usebruno/bruno
+
 - **Monorepo**:
   - **Turbo**: https://github.com/vercel/turbo
   - **Nx**: https://github.com/nrwl/nx
