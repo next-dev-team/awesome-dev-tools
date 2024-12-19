@@ -117,3 +117,7 @@ Explore, contribute, and share your discoveries with the community! 😊
 ### Other Tools
 - Activation (Not recommend)
   - **windows/office** https://github.com/massgravel/Microsoft-Activation-Scripts
+
+### Wallpapers 
+ - https://www.wallpaperflare.com/search?wallpaper=technology
+ - https://4kwallpapers.com/most-popular-4k-wallpapers/
