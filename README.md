@@ -41,7 +41,6 @@ Explore, contribute, and share your discoveries with the community! 😊
     - https://www.forefront.ai/
     - 
   - **Selfhost/local**
-    - ALL in one llm: https://github.com/SillyTavern/SillyTavern
     - LLM Chat: 
         - https://lmstudio.ai
         - https://github.com/ollama/ollama
@@ -52,8 +51,12 @@ Explore, contribute, and share your discoveries with the community! 😊
     - Image
         - Fooocus: https://github.com/lllyasviel/Fooocus
         - Stable-diffusion: https://github.com/AUTOMATIC1111/stable-diffusion-webui
-  - Music
+    - Music
       - https://github.com/multimodal-art-projection/YuE
+     
+    - Free 
+      - https://github.com/akshaynstack/reactai
+      - https://github.com/xtekky/gpt4free
       - 
    - Awesome: collection and lists 
       - futuretools: https://www.futuretools.io/  
