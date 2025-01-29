@@ -39,7 +39,7 @@ Explore, contribute, and share your discoveries with the community! 😊
     - https://gemini.google.com/
     - https://poe.com/
     - https://www.forefront.ai/
-
+    - 
   - **Selfhost/local**
     - ALL in one llm: https://github.com/SillyTavern/SillyTavern
     - LLM Chat: 
@@ -52,7 +52,9 @@ Explore, contribute, and share your discoveries with the community! 😊
     - Image
         - Fooocus: https://github.com/lllyasviel/Fooocus
         - Stable-diffusion: https://github.com/AUTOMATIC1111/stable-diffusion-webui
-     
+  - Music
+      - https://github.com/multimodal-art-projection/YuE
+      - 
    - Awesome: collection and lists 
       - futuretools: https://www.futuretools.io/  
       - https://replicate.com/explore   
@@ -98,7 +100,8 @@ Explore, contribute, and share your discoveries with the community! 😊
   - **I18n**: 
       - **traduora**: Translation Management Platform: gihub.com/ever-co/ever-traduora](https://github.com/ever-co/ever-traduora)
       - **accent**: https://github.com/mirego/accent 
-    
+  - Video Editor
+    - https://github.com/arthenica/ffmpeg-kit  
 ### DOCS
 
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
