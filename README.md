@@ -79,6 +79,9 @@ Explore, contribute, and share your discoveries with the community! 😊
 - **Awesome Free** https://github.com/ripienaar/free-for-dev
 - **Developer wiki**: https://wiki.itgoit.nl/en
  - **Es6tutorial**: https://github.com/ruanyf/es6tutorial
+- **API**
+ - Fast API
+   - https://github.com/zhanymkanov/fastapi-best-practices
 
 # Awesome 
 - Selfhosted: https://github.com/awesome-selfhosted/awesome-selfhosted
@@ -104,7 +107,7 @@ Explore, contribute, and share your discoveries with the community! 😊
       - **traduora**: Translation Management Platform: gihub.com/ever-co/ever-traduora](https://github.com/ever-co/ever-traduora)
       - **accent**: https://github.com/mirego/accent 
   - Video Editor
-    - https://github.com/arthenica/ffmpeg-kit  
+    - https://github.com/arthenica/ffmpeg-kit
 ### DOCS
 
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
