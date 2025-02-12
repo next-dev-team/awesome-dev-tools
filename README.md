@@ -100,6 +100,9 @@ Explore, contribute, and share your discoveries with the community! 😊
         - https://github.com/joschan21/digitalhippo
 
 ## Service 
+  - **Auth**
+    - https://github.com/casdoor/casdoor
+
   - **Mock API**:
     - **Gorest**: Real GraphQL and REST API for Testing and Prototyping https://gorest.co.in
     - **Platzi**: Your API for your e-commerce or shopping website prototype. https://fakeapi.platzi.com/
