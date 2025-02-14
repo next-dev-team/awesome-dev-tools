@@ -133,3 +133,5 @@ Explore, contribute, and share your discoveries with the community! 😊
 ### Wallpapers 
  - https://www.wallpaperflare.com/search?wallpaper=technology
  - https://4kwallpapers.com/most-popular-4k-wallpapers/
+ - https://alphacoders.com/
+ - https://wallhaven.cc/
