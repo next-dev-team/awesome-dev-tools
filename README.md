@@ -45,6 +45,11 @@ Explore, contribute, and share your discoveries with the community! 😊
         - https://lmstudio.ai
         - https://github.com/ollama/ollama
         - https://github.com/lm-sys/FastChat
+    - Video
+        - https://github.com/Wan-Video/Wan2.1
+        - https://github.com/Tencent/HunyuanVideo
+        - https://github.com/THUDM/CogVideo
+        - 
     - Voice
        -RVC: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
        - Applio: https://github.com/IAHispano/Applio
