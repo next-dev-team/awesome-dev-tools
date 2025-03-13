@@ -116,6 +116,7 @@ Explore, contribute, and share your discoveries with the community! 😊
       - **accent**: https://github.com/mirego/accent 
   - Video Editor
     - https://github.com/arthenica/ffmpeg-kit
+  - Invoice Online http://github.com/al1abb/invoify?tab=readme-ov-file#roadmap
 ### DOCS
 
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
