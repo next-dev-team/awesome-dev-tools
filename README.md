@@ -21,6 +21,9 @@ Explore, contribute, and share your discoveries with the community! 😊
   - Web Storm: https://www.jetbrains.com/webstorm/
   - IDE React with AI: https://github.com/Exafunction/codeium-react-code-editor
 
+- Scafold Project
+  - https://github.com/vikejs/bati
+
 - **API TESTING
     - https://github.com/Kong/insomnia
     - https://www.postman.com/downloads/
