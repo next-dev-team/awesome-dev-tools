@@ -104,6 +104,7 @@ Explore, contribute, and share your discoveries with the community! 😊
 - **Seflhost**
     - Translation Management Platform: gihub.com/ever-co/ever-traduora](https://github.com/ever-co/ever-traduora)
     - Strapi: https://github.com/strapi/strapi
+    - https://github.com/directus/directus
     - Payload: https://github.com/payloadcms/payload
         - https://github.com/joschan21/digitalhippo
     - https://github.com/Budibase/budibase
