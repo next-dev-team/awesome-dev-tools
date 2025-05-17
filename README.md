@@ -135,10 +135,13 @@ Explore, contribute, and share your discoveries with the community! 😊
 
 - Gitbook: https://www.gitbook.com/
 
-### Other Tools
-- Activation (Not recommend)
+### Other Tools / Site
+(Not recommend)
+- Activation 
   - **windows/office** https://github.com/massgravel/Microsoft-Activation-Scripts
-
+- 1377xDOTto
+- thepiratebayDOT.org
+- ytsDOTmx
 ### Wallpapers 
  - https://www.wallpaperflare.com/search?wallpaper=technology
  - https://4kwallpapers.com/most-popular-4k-wallpapers/
