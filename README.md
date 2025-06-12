@@ -34,6 +34,9 @@ Explore, contribute, and share your discoveries with the community! 😊
   - **Nx**: https://github.com/nrwl/nx
 
 - **AI**:
+ - DEV
+    - https://github.com/Kilo-Org/kilocode
+
   - Awesome
    - https://aitoolist.com/
   - Online
