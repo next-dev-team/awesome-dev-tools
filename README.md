@@ -34,6 +34,7 @@ Explore, contribute, and share your discoveries with the community! 😊
   - **Nx**: https://github.com/nrwl/nx
 
 - **AI**:
+ - MCP Awesome: https://context7.com/
  - DEV
     - https://github.com/Kilo-Org/kilocode
 
