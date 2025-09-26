@@ -140,6 +140,9 @@ Explore, contribute, and share your discoveries with the community! 😊
 - Gitbook: https://www.gitbook.com/
 
 ### Other Tools / Site
+Control Android: 
+- scrcpy: (free) https://github.com/Genymobile/scrcpy
+- Visor (Paid)
 (Not recommend)
 - Activation 
   - **windows/office** https://github.com/massgravel/Microsoft-Activation-Scripts
