@@ -32,7 +32,10 @@ Explore, contribute, and share your discoveries with the community! 😊
 - **Monorepo**:
   - **Turbo**: https://github.com/vercel/turbo
   - **Nx**: https://github.com/nrwl/nx
-
+- Server 
+  - https://surge.sh/ (http/https)
+  - https://www.netlify.com/
+  - https://vercel.com/
 - **AI**:
  - MCP Awesome: https://context7.com/
  - DEV
