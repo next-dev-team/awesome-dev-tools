@@ -89,14 +89,6 @@ Explore, contribute, and share your discoveries with the community! 😊
   - Jira: https://www.atlassian.com/software/jira
   - All git has own board too
 
-## Wiki
--  **Awesome Dev**: The next generation of development resource : https://nextdev.netlify.app/
-- **Awesome Free** https://github.com/ripienaar/free-for-dev
-- **Developer wiki**: https://wiki.itgoit.nl/en
- - **Es6tutorial**: https://github.com/ruanyf/es6tutorial
-- **API**
- - Fast API
-   - https://github.com/zhanymkanov/fastapi-best-practices
 
 # Awesome 
 - Selfhosted: https://github.com/awesome-selfhosted/awesome-selfhosted
@@ -115,6 +107,8 @@ Explore, contribute, and share your discoveries with the community! 😊
         - https://github.com/joschan21/digitalhippo
     - https://github.com/Budibase/budibase
 ## Service 
+  - **Telegrame** 
+    - Telegram Bot development: https://github.com/grammyjs/grammY
   - **Upload/Storage**
     - UI and server https://github.com/transloadit/uppy
   - **Auth**
@@ -132,11 +126,6 @@ Explore, contribute, and share your discoveries with the community! 😊
 ### DOCS
 
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
-   - dumi example: 
-      - https://github.com/alibaba/x-render
-   - Theme: https://github.com/umijs/dumi
-    - Antd v5: https://github.com/KuangPF/dumi-theme-antd
-    - Antd v5: https://github.com/arvinxx/dumi-theme-antd-style
 
 - Docusaurus: https://docusaurus.io/
 
@@ -160,6 +149,3 @@ Control Android:
  - https://4kwallpapers.com/most-popular-4k-wallpapers/
  - https://alphacoders.com/
  - https://wallhaven.cc/
-
-### WIFI KH
- - https://db-ip.com/country/KH
