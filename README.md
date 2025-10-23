@@ -115,6 +115,8 @@ Explore, contribute, and share your discoveries with the community! 😊
         - https://github.com/joschan21/digitalhippo
     - https://github.com/Budibase/budibase
 ## Service 
+  - **Upload/Storage**
+    - UI and server https://github.com/transloadit/uppy
   - **Auth**
     - https://github.com/casdoor/casdoor
 
