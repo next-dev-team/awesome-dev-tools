@@ -52,6 +52,7 @@ Explore, contribute, and share your discoveries with the community! 😊
     - https://poe.com/
     - https://www.forefront.ai/
     - 
+  - https://github.com/k2-fsa/sherpa-onnx  
   - **Selfhost/local**
     - LLM Chat: 
         - https://lmstudio.ai
