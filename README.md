@@ -28,7 +28,9 @@ Explore, contribute, and share your discoveries with the community! 😊
     - https://github.com/Kong/insomnia
     - https://www.postman.com/downloads/
     - https://github.com/usebruno/bruno
-
+- Click to code 
+ - code-inspector: https://github.com/zh-lx/code-inspector
+ - click-to-react-component: https://github.com/ArnaudBarre/vite-plugin-react-click-to-component
 - **Monorepo**:
   - **Turbo**: https://github.com/vercel/turbo
   - **Nx**: https://github.com/nrwl/nx
