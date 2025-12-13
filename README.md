@@ -141,6 +141,8 @@ Explore, contribute, and share your discoveries with the community! 😊
 - Gitbook: https://www.gitbook.com/
 
 ### Other Tools / Site
+- MUSIC API: https://github.com/uimaxbai/hifi-api
+- WEB MUSIC: https://music.binimum.org/
 - Open API https://openapi-ts.dev/
 Control Android: 
 - scrcpy: (free) https://github.com/Genymobile/scrcpy
