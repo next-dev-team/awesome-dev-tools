@@ -153,6 +153,7 @@ Control Android:
 - 1377xDOTto
 - thepiratebayDOT.org
 - ytsDOTmx
+- Watch Torrent app: https://github.com/hotheadhacker/seedbox-lite
 ### Wallpapers 
  - https://www.wallpaperflare.com/search?wallpaper=technology
  - https://4kwallpapers.com/most-popular-4k-wallpapers/
