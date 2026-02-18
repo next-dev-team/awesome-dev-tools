@@ -105,6 +105,10 @@ Explore, contribute, and share your discoveries with the community! 😊
   - Npm Private: https://github.com/verdaccio/verdaccio
   - Code editor web: https://github.com/microsoft/monaco-editor
       - https://github.com/Pranomvignesh/constrained-editor-plugin
+## Automate
+https://github.com/openclaw/openclaw
+https://github.com/getclawe/clawe
+https://github.com/apify/crawlee/
 
 ## CMS HEADLESS/Service 
 - **Seflhost**
