@@ -147,6 +147,7 @@ https://github.com/apify/crawlee/
 - Gitbook: https://www.gitbook.com/
 
 ### Other Tools / Site
+- DevBox Tools: https://devbox.tools/ - Free browser-based toolbox with 58+ dev/SEO utilities
 - MUSIC API: https://github.com/uimaxbai/hifi-api
 - WEB MUSIC: https://music.binimum.org/
 - Open API https://openapi-ts.dev/
