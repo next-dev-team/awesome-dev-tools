@@ -28,6 +28,7 @@ Explore, contribute, and share your discoveries with the community! 😊
     - https://github.com/Kong/insomnia
     - https://www.postman.com/downloads/
     - https://github.com/usebruno/bruno
+    - https://bestjson.com/json-diff — Compare saved JSON responses and inspect structural changes by path in the browser.
 - Click to code 
  - code-inspector: https://github.com/zh-lx/code-inspector
  - click-to-react-component: https://github.com/ArnaudBarre/vite-plugin-react-click-to-component
